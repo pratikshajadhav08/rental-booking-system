@@ -269,6 +269,8 @@ Frontend production build:
 cd client
 npm run build
 ```
+## Live App
+https://rental-booking-system-a4r9.vercel.app/
 
 ## Known Production Improvements
 
